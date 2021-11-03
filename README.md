@@ -1,0 +1,2 @@
+# tareduca
+ Educational platform
